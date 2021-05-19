@@ -1,0 +1,36 @@
+body{ 
+    
+    background-image: url(https://images.unsplash.com/photo-1518709779341-56cf4535e94b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=sidney-pearce-yPMJliKzyc4-unsplash.jpg&w=2400)
+    
+    }
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-weight: 700;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+h2{    text-align: center;
+    font-size: 45px;
+    color: white;
+    font: weight 900px;;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+h3 {    text-align: center;
+    font-size: 35px;
+    color:white;
+    font-weight: 600px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-overflow: clip;
+    text-shadow: #00000077;
+
+}
+h4 {
+    font-size: 25px;
+font-weight: 500px;
+    color: white;
+}
